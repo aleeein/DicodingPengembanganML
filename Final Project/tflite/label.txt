@@ -1,0 +1,4 @@
+cloudy
+desert
+green area
+water
